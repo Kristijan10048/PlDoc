@@ -8,5 +8,6 @@ Issues from https://sourceforge.net/p/pldoc/_list/tickets not transfered
 Header documentation or package level documentation requires @headdoc comment.
 This is very annoying, and should be fixed as the first thing. 
 
-contact me if you want to help out. 
+
+This is intial import of PlDoc
 
